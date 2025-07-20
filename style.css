@@ -1,0 +1,48 @@
+body {
+  color: #444;
+  font-family: sans-serif;
+  border-top: 10px solid #1098ad;
+}
+
+.header {
+  background-color: #f7f7f7;
+}
+
+.h1-title {
+  text-transform: uppercase;
+  font-style: italic;
+  font-size: 26px;
+}
+
+/*navigation*/
+.nav a:link {
+  text-decoration: none;
+  color: #1098ad;
+}
+
+.article-header {
+  color: #1098ad;
+  font-size: 40px;
+
+}
+
+h1 {
+  color: #1098ad;
+  font-family: sans-serif;
+
+}
+
+.html-codes-img {
+  width: 500px;
+  height: 200px;
+}
+
+.Laura-img {
+  width: 50px;
+  height: 50px;
+}
+
+.Auther {
+  font-family: sans-serif;
+  font-style: italic;
+}
